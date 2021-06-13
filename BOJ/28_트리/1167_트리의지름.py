@@ -45,5 +45,3 @@ visited = [0 for _ in range(V+1)]
 _, ans = bfs(idx)
 
 print(ans)
-
-
